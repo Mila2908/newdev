@@ -15,5 +15,5 @@ variable "aws_secret_access_key" {
 
 variable "ami_id" {
   description = "AMI ID for the EC2 instance"
-  default     = "ami-xxxxxxxxxxxxxxxxx" # Replace with your AMI
+  default     = "ami-0a89fa9a6d8c7ad98" # Replace with your AMI
 }
